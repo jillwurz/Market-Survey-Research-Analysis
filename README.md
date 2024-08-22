@@ -105,3 +105,7 @@ Confusion matrices were generated for both models to assess their performance in
 ## Conclusion
 
 This analysis provided insights into how demographic factors such as salary, age, and credit availability influence computer brand preferences. The Random Forest model outperformed the XGBoost model in terms of accuracy.
+
+## Files in This Repository
+- `Market Survey Research Analysis.ipynb`
+- `CompleteResponses`
